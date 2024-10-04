@@ -6,7 +6,9 @@ load-plugins=pylint_django
 
 [MESSAGES CONTROL]
 
-disable=
+disable= unused-argument,
+         line-too-long,
+         redefined-outer-name
 
 [REPORTS]
 
