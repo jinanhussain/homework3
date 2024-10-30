@@ -10,6 +10,7 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+# testing mainline
 
 def output_env_variables():
     env = os.getenv('ENV')
