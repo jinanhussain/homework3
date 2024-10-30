@@ -3,3 +3,4 @@ my_env/
 .coverage
 .pytest_cache
 *__pycache__
+venv/
